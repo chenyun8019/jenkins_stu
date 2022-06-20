@@ -17,5 +17,8 @@ def test_03():
 def test_04():
     print('test_04')
 
+def test_05():
+    print('test_05')
+
 if __name__ == '__main__':
     pytest.main(['-v','-s'])
